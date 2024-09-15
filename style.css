@@ -1,0 +1,57 @@
+* {
+    font-family: "Open Sans", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #F5F4F0;
+}
+
+#page {
+    padding: 88px 0px 137px;
+    margin: 0 auto;
+    width: 1120px;
+}
+
+img {
+    border-radius: 28px;
+}
+
+
+.destinoslista {
+    list-style-type: none;
+}
+
+h1 {
+    color: #1B1B1B;
+    font-size: 36px;
+    font-weight: 800;
+}
+
+h5 {
+    color: #E1624F;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#titlepage h5 {
+    margin-bottom: 8px;
+}
+
+#titlepage h1 {
+    margin-bottom: 40px;
+}
+
+#titlelist h5 {
+    margin-bottom: 2px;
+}
+
+#descriptionimage p {
+    margin-top: 24px;
+    margin-bottom: 44px;
+    color: #333333;
+    text-align: center;
+    font-size: 16px;
+    font-style: italic;
+}
